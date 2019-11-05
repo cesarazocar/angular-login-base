@@ -1,8 +1,8 @@
 # LoginApp
 
-Cascaron de un login que usaremos en la sección 10 de mi curso de Angular de cero a experto.
+<a href="https://www.udemy.com/angular-2-fernando-herrera/">Tutorial.</a>
 
-https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
 
+<a href="https://github.com/cesarazocar/angular-login-base">Server here.</a>
 
 ![](https://github.com/Klerith/angular-login-demoapp/blob/master/src/assets/images/demo.png?raw=true)
